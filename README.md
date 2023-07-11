@@ -12,11 +12,8 @@ Pour tester cette application, il faut installer:
 COTÉ SERVEUR: express, cors, body-parser, mongoose, nodemon(facultatif), dotenv, bcryptjs, jsonwebtoken
 
 COTÉ CLIENT: axios(pour les requetes http), moment, react-file-base64(s'il faut ajouter des images), redux, redux-thunk, 
-react-redux, 
-
-react-hot-toast(pas encore installé: pour de belles notifications après creation, suppression, modification),
+react-redux, react-hot-toast(pas encore installé: pour de belles notifications après creation, suppression, modification),
 material-ui/core, material-ui/icons, react-router-dom(pas encore installé), jwt-decode, react-google-login
-
 
 Pour démarer le serveur, il faut se positionner dans le dossier "api-serveur" et taper: nodemon ou bien npm start
 
