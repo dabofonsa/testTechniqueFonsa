@@ -17,6 +17,7 @@ react-redux, react-hot-toast(pas encore installé: pour de belles notifications 
 material-ui/core, material-ui/icons, react-router-dom(pas encore installé), jwt-decode, react-google-login
 
 TRES IMPORTANT !!!
+
 --- Pour démarer le serveur, il faut se positionner dans le dossier "api-serveur" et ouvrrir le fichier index.js puis changer le contenu de la  variable constante BASE_URL (aller dans votre BD Mongodb et copier le lien de connexion de votre cluster et l'attribuer à BASE_URL)
 A bien entrer le bon nom_Utilisateur et le bon Mot_de_Passe
 et taper dans le terminal: 'npm install' ou bien 'npm install --force' afin d'intaller tous les paquets dont le serveur a besoin pour se lancer puis taper 'nodemon' ou bien 'npm start' pour démarrer le serveur
